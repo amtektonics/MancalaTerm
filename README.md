@@ -4,4 +4,4 @@ simple terminal based Mancala game ment to be pass and play in a linux terminal
 
 ## Instaliation
 app's only dependancy is ncurses</br>
-download the zip or clone the repo and run make on the directory and enjoy
+download the zip or clone the repo, run make on the directory and enjoy
